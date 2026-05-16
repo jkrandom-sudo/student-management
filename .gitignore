@@ -1,0 +1,32 @@
+# Backend
+student-backend/target/
+student-backend/data/
+student-backend/*.log
+student-backend/.mvn/
+
+# Frontend
+student-frontend/node_modules/
+student-frontend/dist/
+student-frontend/*.log
+
+# Tools
+cpolar/
+# claude config
+.claude/
+
+# cpolar binary
+tools/cpolar
+tools/cpolar.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Env
+.env
+.env.local
